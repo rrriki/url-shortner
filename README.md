@@ -1,5 +1,5 @@
 
-# Shorty
+# url-shortner
 
 A very simple URL shortner service, written using Go and Mongodb, to familiarize myself with the language.
 
